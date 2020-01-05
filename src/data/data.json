@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+        
+    },
+    {
+        "id":2,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+    },
+    {
+        "id":3,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+    },
+    {
+        "id":4,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+    },
+    {
+        "id":5,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+    },
+    {
+        "id":6,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+    },
+    {
+        "id":7,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+    },
+    {
+        "id":8,
+        "src":"/assets/pink flower.jpeg",
+        "clicked": false
+    }
+]
