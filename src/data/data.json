@@ -7,37 +7,37 @@
     },
     {
         "id":2,
-        "src":"/assets/pink flower.jpeg",
+        "src":"/assets/amaranth.jpg",
         "clicked": false
     },
     {
         "id":3,
-        "src":"/assets/pink flower.jpeg",
+        "src":"/assets/orchid.jpeg",
         "clicked": false
     },
     {
         "id":4,
-        "src":"/assets/pink flower.jpeg",
+        "src":"/assets/blue dahlia.jpg",
         "clicked": false
     },
     {
         "id":5,
-        "src":"/assets/pink flower.jpeg",
+        "src":"/assets/red rose.jpeg",
         "clicked": false
     },
     {
         "id":6,
-        "src":"/assets/pink flower.jpeg",
+        "src":"/assets/sunflower.jpg",
         "clicked": false
     },
     {
         "id":7,
-        "src":"/assets/pink flower.jpeg",
+        "src":"/assets/lily.jpeg",
         "clicked": false
     },
     {
         "id":8,
-        "src":"/assets/pink flower.jpeg",
+        "src":"/assets/daisy.jpeg",
         "clicked": false
     }
 ]
